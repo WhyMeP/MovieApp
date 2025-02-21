@@ -12,8 +12,8 @@ final class LoginViewModel {
     }
     
     var state = State.initial
-    var email: String = "phvallabh@gmail.com"
-    var password: String = "12343"
+    var email: String = ""
+    var password: String = ""
     
     private let loginRepository: LoginRepository
     private let sensitiveStorageRepository: SensitiveStorageRepository
