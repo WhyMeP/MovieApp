@@ -9,7 +9,7 @@ Welcome to the Movie App project! This document provides essential information f
 1. Clone the repository.
 
 ```bash
-  $ git clone ...
+  $ git clone https://github.com/WhyMeP/MovieApp
 ```
 
 2. Add your API key to the `AppConfig.xconfig` file under key call `MOVIE_API_KEY`.
