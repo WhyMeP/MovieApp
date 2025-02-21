@@ -1,0 +1,5 @@
+MOVIE_API_BASE_URL = https:/$()/api.themoviedb.org/3
+MOVIE_API_KEY = //REPLACE WITH OWN KEY
+MOVIE_IMAGE_BASE_URL = https:/$()/image.tmdb.org/t/p
+ENABLE_LOGIN = YES // Enable login enter YES else NO
+LOGIN_BASE_URL = https:/$()/movielogin.free.beeceptor.com
